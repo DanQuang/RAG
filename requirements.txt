@@ -1,0 +1,7 @@
+transformers
+langchain
+langchain-community
+torch
+pypdf
+sentence-transformers
+streamlit
