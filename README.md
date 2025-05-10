@@ -20,7 +20,7 @@ A powerful AI chatbot that uses Retrieval-Augmented Generation (RAG) to provide 
 1. Clone the repository:
 
 ```bash
-git clone [<your-repository-url>](https://github.com/DanQuang/RAG)
+git clone https://github.com/DanQuang/RAG
 cd RAG
 ```
 
